@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey, I'm [Clinton Gethi]
 
-<!--
-**Pixiepie-cyber/Pixiepie-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [A Multi-Functional Hacking Tool]
+- 🌱 I’m learning [Reverse Engineering]
+- 💬 Ask me about [Cyber Security]
+- 📫 How to reach me: [https\://www\.instagram.com/gambi\_devs?utm\_source=ig\_web\_button\_share\_sheet&igsh=ZDNlZDc0MzIxNw==]
 
-Here are some ideas to get you started:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixiepie-cyber&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixiepie-cyber&layout=compact)
+
+<img src="https://media.giphy.com/media/yourgifsource/giphy.gif" width="500"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Pixiepie-cyber&color=blue)
+
+## 📫 Connect with me  
+[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://www.instagram.com/gambi_devs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))  
+[![TikTok](https://img.shields.io/badge/Tiktok-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://tiktok.com/@gambidevs)  
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?&style=flat-square&logo=google-chrome&logoColor=white)]([https://yourwebsite.com](https://pixiepie-cyber.github.io/gambidevs/))  
+
+
+
