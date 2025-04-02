@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Clinton Gethi
 
-- 🔭 I’m currently working on ## A Multi-Functional Hacking Tool
-- 🌱 I’m learning ## Reverse Engineering
-- 💬 Ask me about ## Cyber Security
+- 🔭 I’m currently working on A Multi-Functional Hacking Tool
+- 🌱 I’m learning Reverse Engineering
+- 💬 Ask me about Cyber Security
 - 📫 How to reach me: https\://www\.instagram.com/gambi\_devs?utm\_source=ig\_web\_button\_share\_sheet&igsh=ZDNlZDc0MzIxNw==
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixiepie-cyber&show_icons=true&theme=radical)
