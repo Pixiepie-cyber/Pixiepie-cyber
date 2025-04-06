@@ -5,6 +5,9 @@
 - 💬 Ask me about Cyber Security
 - 📫 How to reach me: https\://www\.instagram.com/gambi\_devs?utm\_source=ig\_web\_button\_share\_sheet&igsh=ZDNlZDc0MzIxNw==
 
+- ## 😎 Try Hack Me Stats
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4511453" style='border:none;'></iframe>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixiepie-cyber&show_icons=true&theme=radical)
 
 
